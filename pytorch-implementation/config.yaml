@@ -1,0 +1,4 @@
+dataset_path : '/home/hoang/datasets/102-flowers/'
+labels_path : '/home/hoang/datasets/102-flowers/imagelabels.mat'
+setid_path : '/home/hoang/datasets/102-flowers/setid.mat'
+img_path : '/home/hoang/datasets/102-flowers/102flowers/jpg/'
